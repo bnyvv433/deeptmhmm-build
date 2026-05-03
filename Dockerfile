@@ -1,1 +1,1 @@
-FROM biolib/deeptmhmm:latest
+FROM docker.io/biolib/deeptmhmm:latest
